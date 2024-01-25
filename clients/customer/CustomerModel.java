@@ -1,6 +1,6 @@
 package clients.customer;
 
-import catalogue.Basket;                  //neccesary imports
+import catalogue.Basket;
 import catalogue.Product;                    
 import debug.DEBUG;
 import middle.MiddleFactory;
